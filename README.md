@@ -1,3 +1,7 @@
+## К сожалению папки data и results оказались слишком большими, поэтому мне пришлось разместить их на Гугл диске
+
+https://drive.google.com/file/d/1blRq75kOd66QlVqzm4Natdyx5PZFGTjm/view?usp=sharing
+
 # Задание 1: Стандартные аугментации torchvision (15 баллов)
 
 1) Создайте пайплайн стандартных аугментаций torchvision (например, RandomHorizontalFlip, RandomCrop, ColorJitter, RandomRotation, RandomGrayscale).
